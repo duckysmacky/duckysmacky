@@ -6,6 +6,6 @@
 - Java Android Development
 - Java Minecraft Development
 - Python Webscraping
-- Python Data Analisys
+- Python Data Analysis
 - Etc
 #### Reach out to me at @DuckyBusiness (Discord)
