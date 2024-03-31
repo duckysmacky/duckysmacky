@@ -1,13 +1,12 @@
 [![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckysmacky)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gotham )
 
-### Java / Python Dev
-*Also learning C++ and Rust*
+### Java / Python / Rust Dev
+*Also learning C++ and JavaScript*
 
 Things I'm (kinda) good at:
 - Java Android Development
-- Java Minecraft Development
+- Java Minecraft Plugins
 - Python Webscraping
-- Python Data Analysis
 ----
 #### I am looking for work experience (even for free!)
-Reach out to me at @DuckyBusiness (Discord)
+Reach out to me at my [Discord](https://discord.com/users/689572887366991937)
