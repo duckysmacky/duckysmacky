@@ -3,13 +3,13 @@
 
 ## 🔮 Languages
 
-Java / Python / Rust / C / JavaScript
+Java / Python / C / Rust / JavaScript
 
 ## ⚡ Active projects
 
-- [C Webserver](https://github.com/duckysmacky/c-webserver) - Really basic webserver written in C from ground up
-- [Win-tools](https://github.com/duckysmacky/win-tools) - A collection of tools and utilities written in C
-- [Dnevnik Client](https://github.com/duckysmacky/dnevnik-client) - Utilizing Dnevnik API to access data from Moscow Electronic School (МЭШ) system [RU]
+- [C Webserver](https://github.com/duckysmacky/c-webserver)
+- [Win-tools](https://github.com/duckysmacky/win-tools)
+- [Dnevnik Client](https://github.com/duckysmacky/dnevnik-client)
 
 ----
 #### I am looking for work experience (even for free!)
