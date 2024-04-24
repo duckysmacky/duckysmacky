@@ -7,7 +7,6 @@ Java / Python / C / Rust / JavaScript
 
 ## ⚡ Active projects
 
-- [C Webserver](https://github.com/duckysmacky/c-webserver)
 - [Win-tools](https://github.com/duckysmacky/win-tools)
 - [Dnevnik Client](https://github.com/duckysmacky/dnevnik-client)
 
