@@ -3,12 +3,15 @@
 
 ## 🔮 Languages
 
-Java / Python / C / Rust / JavaScript
+- Java
+- C
+- Rust
+- JavaScript
+- Python
 
 ## ⚡ Active projects
 
 - [Win-tools](https://github.com/duckysmacky/win-tools)
-- [Dnevnik Client](https://github.com/duckysmacky/dnevnik-client)
 
 ----
 #### I am looking for work experience (even for free!)
