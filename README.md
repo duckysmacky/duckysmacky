@@ -4,16 +4,19 @@
 ## 🔮 Languages
 
 - Java
-- C
 - Rust
+- C
+- Go
 - JavaScript
 - Python
 
 ## ⚡ Active projects
 
 - [Win-tools](https://github.com/duckysmacky/win-tools)
+- [Signsense](https://github.com/duckysmacky/signsense)
 
 ----
+
 #### I am looking for work experience (even for free!)
 Reach out to me at my [Discord](https://discord.com/users/689572887366991937)
 
