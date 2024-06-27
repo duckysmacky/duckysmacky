@@ -17,7 +17,6 @@
 
 ----
 
-#### I am looking for work experience (even for free!)
-Reach out to me at my [Discord](https://discord.com/users/689572887366991937)
+#### I am currently looking for work experience
 
-Also check out my [business website](https://duckybusiness.carrd.co)
+Also check out my [personal portfolio website]([https://duckybusiness.carrd.co](https://nikdor.carrd.co/))
