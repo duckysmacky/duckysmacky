@@ -15,7 +15,6 @@
 
 - [LockBox](https://github.com/duckysmacky/lockbox)
 - [Utilimate](https://github.com/duckysmacky/utilimate)
-- [Signsense](https://github.com/duckysmacky/signsense)
 
 ----
 
