@@ -6,10 +6,10 @@
 
 - Java
 - Rust
-- Go
 - C / C++
-- JavaScript
+- Go
 - Python
+- JavaScript
 
 ## ⚡ Active projects
 
