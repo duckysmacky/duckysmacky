@@ -7,17 +7,13 @@
 - Java
 - Rust
 - C / C++
-- Go
-- Python
-- JavaScript
 
 ## ⚡ Active projects
 
 - [LockBox](https://github.com/duckysmacky/lockbox)
+- [WinTools](https://github.com/duckysmacky/win-tools)
 - [Utilimate](https://github.com/duckysmacky/utilimate)
 
 ----
-
-#### I am currently looking for work experience
 
 Also check out my [personal portfolio website](https://nikdor.carrd.co/)
