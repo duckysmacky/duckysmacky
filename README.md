@@ -1,18 +1,18 @@
 ## 📊 Stats
 
 [![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckysmacky)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gotham )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&exclude_repo=school)
 
 ## 🔮 Languages
 
-- Java
 - Rust
 - C / C++
+- Java
 
 ## ⚡ Active projects
 
-- [LockBox](https://github.com/duckysmacky/lockbox)
-- [WinTools](https://github.com/duckysmacky/win-tools)
-- [Utilimate](https://github.com/duckysmacky/utilimate)
+- [Lockbox](https://github.com/duckysmacky/lockbox) - Fast and easy to use CLI-based file encryption program
+- [Win-tools](https://github.com/duckysmacky/win-tools) - A collection of useful native command line tools for Windows
 
 ----
 
