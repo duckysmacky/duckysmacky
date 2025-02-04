@@ -11,7 +11,7 @@
 
 ## ⚡ Active projects
 
-- [Lockbox](https://github.com/duckysmacky/lockbox) - Fast and easy to use CLI-based file encryption program
+- [Databoxer](https://github.com/duckysmacky/databoxer) - Fast and easy to use CLI-based file encryption program
 - [Win-tools](https://github.com/duckysmacky/win-tools) - A collection of useful native command line tools for Windows
 
 ----
