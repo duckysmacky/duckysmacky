@@ -8,7 +8,6 @@
 - Rust
 - Java
 - C++
-- C
 
 ## ⚡ Active projects
 
