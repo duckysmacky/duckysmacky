@@ -8,9 +8,3 @@
 - Rust
 - Java
 - C++
-
-## ⚡ Active projects
-
-- [Databoxer](https://github.com/duckysmacky/databoxer) - Fast and easy to use CLI-based file encryption program
-- [Copper](https://github.com/duckysmacky/copper) - Custom build tool for C/C++ projects
-- [Win-tools](https://github.com/duckysmacky/win-tools) - A collection of useful native command line tools for Windows
